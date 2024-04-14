@@ -6,7 +6,7 @@ This repository contains projects on object detection using Haar cascade, face d
 
 Check out my article on OpenCV image enhancement techniques and sample applications at the following link: [OpenCV Image Enhancement Techniques and Sample Applications](https://www.linkedin.com/feed/update/urn:li:activity:7100050295790968833?utm_source=share&utm_medium=member_desktop)
 
-# 📝 The headings from the content
+### 📝 The headings from the content
 
 - Noise Reduction with Filtering
 - Sharpening
